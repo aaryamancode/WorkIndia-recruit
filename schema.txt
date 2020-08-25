@@ -1,0 +1,8 @@
+table1
+user_id (pkey, autoincrement)
+username
+password
+
+Table2
+user_id
+notes
